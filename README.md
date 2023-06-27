@@ -26,7 +26,7 @@ npm run lint
 
 ### Task page
 ![image](https://github.com/Angelina1Blokhina/quickDealTest/assets/64483372/5151af51-2c26-4b70-bac3-9356d65ddd60)
-```
+
 If you want to add a new task you can use the button "Создать новую задачу"
 
 ![image](https://github.com/Angelina1Blokhina/quickDealTest/assets/64483372/b8a50fd2-8a9a-448b-b12f-8e2ebc2659fc)
